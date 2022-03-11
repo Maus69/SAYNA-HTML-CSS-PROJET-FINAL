@@ -1,0 +1,67 @@
+header{
+    background-color: #d35649;
+}
+
+header a{
+    color: white;
+    text-decoration: none;
+}
+
+header a:hover{
+    color: #98a5a5;
+}
+
+#navigation a{
+    color: white;
+    text-decoration: none;
+    border-top: 3px solid #444;
+    border-bottom: 3px solid #444;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#navigation a:hover{
+    color: #98a5a5;
+}
+
+#navigation i{
+    border: 3px solid #444;
+    border-radius: 100%;
+    padding: 25px;
+}
+
+#navigation i:hover{
+    color: #98a5a5;
+}
+
+input{
+    border: 2px solid #444;
+}
+
+#contact:hover{
+    color: #d35649;
+    text-decoration: underline;
+}
+
+#learn:hover{
+    color: #d35649;
+    text-decoration: underline;
+}
+
+footer a{
+    color: #d35649;
+    text-decoration: none;
+}
+
+#footer-top, #email{
+    background-color: #1f1f1f;
+}
+
+#footer-bottom{
+    background-color: #444;
+    color: #98a5a5;
+}
+
+#social:hover{
+    color: #509bd7;
+}
